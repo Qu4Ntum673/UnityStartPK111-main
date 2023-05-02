@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mob
+  - Ground
+  - enemy
+  - BoD
+  - Chicken
+  - Items
+  - Chest
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Mobs
+  - Enemy
+  - Items
+  - Platforms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3928859141
+    locked: 0
+  - name: Misc
+    uniqueID: 3245497649
+    locked: 0
+  - name: Platforms
+    uniqueID: 2389172839
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bom
+    uniqueID: 779356527
+    locked: 0
